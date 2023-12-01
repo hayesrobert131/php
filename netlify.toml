@@ -1,0 +1,5 @@
+[build]
+  command = "echo 'No build command specified'"
+
+[publish]
+  directory = "C:\\xampp\\htdocs\\Poke"
